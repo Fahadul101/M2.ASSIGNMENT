@@ -1,0 +1,33 @@
+.penguin-card img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: top;
+    border: 20px;
+    border-radius: 20px;
+    background-color:lightgray;
+   
+    
+}
+
+.fahad img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    object-position: top;
+    border: 20px;
+    border-radius: 20px;
+    background-color: lightgray;
+}
+
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+.penguin-slide .carousel-item{
+
+    background-color: #fffbf0 ;
+   
+}
+
